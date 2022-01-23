@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background("black");  
+  background("yellow");  
   stroke("blue")
   noFill();
   ellipse(100,350,90,80)
